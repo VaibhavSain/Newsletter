@@ -8,7 +8,7 @@ Excited to share my latest project – a clean and responsive Newsletter Subscri
 ✅ Real-time form validation
 ✅ Optimized for user engagement
 
-🔗 Live Preview: vaibhavsain.github.io/Newsletter/
+🔗 Live Preview:(https://vaibhavsain.github.io/Newsletter/)
 
 This project allowed me to level up my frontend skills, especially in component-based development and utility-first styling with Tailwind.
 
