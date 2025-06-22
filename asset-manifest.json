@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Newsletter/static/css/main.10b2f142.css",
+    "main.js": "/Newsletter/static/js/main.5acac5bb.js",
+    "static/js/453.775cb997.chunk.js": "/Newsletter/static/js/453.775cb997.chunk.js",
+    "static/media/newsletter 1.png": "/Newsletter/static/media/newsletter 1.24d324b130a7120376af.png",
+    "index.html": "/Newsletter/index.html",
+    "main.10b2f142.css.map": "/Newsletter/static/css/main.10b2f142.css.map",
+    "main.5acac5bb.js.map": "/Newsletter/static/js/main.5acac5bb.js.map",
+    "453.775cb997.chunk.js.map": "/Newsletter/static/js/453.775cb997.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b2f142.css",
+    "static/js/main.5acac5bb.js"
+  ]
+}
